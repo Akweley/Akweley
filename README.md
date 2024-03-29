@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akweley
-- 👀 I’m interested in research and technology
-- 🌱 I’m currently learning mobile app development and UI/UX design
-- 💞️ I’m looking to collaborate on team projects to develop my skills
+- 👀 I love managing products and UX Research
+- 🌱 I’m currently a website developer, learning backend with Django
+- 💞️ I’m open to work in a growth team
 - 📫 How to reach me:
 Email: akweleyokaiofficial@gmail.com
 Twitter: @_acquels
