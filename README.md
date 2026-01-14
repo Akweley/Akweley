@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akweley
-- 👀 I love managing products and UX Research
+- 👀 I'm a Marketing Manager specialized in product marketing
 - 🌱 I’m currently a website developer, learning backend with Django
 - 💞️ I’m open to work in a growth team
 - 📫 How to reach me:
